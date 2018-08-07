@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Portal
+  - Box
+  - Box2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background_bottom
+    uniqueID: 1986572079
+    locked: 0
+  - name: background_platform
+    uniqueID: 1593860403
+    locked: 0
+  - name: player
+    uniqueID: 1937551201
+    locked: 0
+  - name: foreground_up
+    uniqueID: 2692471321
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
